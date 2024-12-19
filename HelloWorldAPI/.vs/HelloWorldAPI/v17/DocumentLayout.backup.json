@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|solutionrelative:helloworldapi\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7D5A17B-7844-45D1-AD74-8BB30594DAD9}|HelloWorldAPI\\HelloWorldAPI.csproj|c:\\users\\fpt\\source\\repos\\bth-soa-.net\\helloworldapi\\helloworldapi\\helloworldapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -18,8 +42,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Program.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:30:22.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -42,20 +80,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Program.cs",
-              "RelativeDocumentMoniker": "HelloWorldAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Program.cs",
-              "RelativeToolTip": "HelloWorldAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:30:22.813Z",
+              "WhenOpened": "2024-12-19T09:20:13.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\appsettings.json",
+              "RelativeToolTip": "HelloWorldAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T09:18:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:20:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:18:18.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Model\\User.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:17:49.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "HelloWorldAPI\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "HelloWorldAPI\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:35:11.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HelloWorldAPI.http",
               "DocumentMoniker": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.http",
               "RelativeDocumentMoniker": "HelloWorldAPI\\HelloWorldAPI.http",
