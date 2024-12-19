@@ -55,8 +55,7 @@
               "ViewState": "AgIAAB4AAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T04:30:22.813Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "HelloWorldAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAADYAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T09:20:13.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T09:20:13.147Z"
             },
             {
               "$type": "Document",
@@ -99,7 +97,7 @@
               "RelativeDocumentMoniker": "HelloWorldAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\appsettings.json",
               "RelativeToolTip": "HelloWorldAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-19T09:18:33.833Z",
               "EditorCaption": ""
@@ -114,8 +112,7 @@
               "RelativeToolTip": "HelloWorldAPI\\Middleware\\JwtMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T09:20:53.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T09:20:53.82Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "HelloWorldAPI\\Database\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T09:18:18.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T09:18:18.791Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "HelloWorldAPI\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T09:17:49.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T09:17:49.945Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "HelloWorldAPI\\Controllers\\HelloWorldController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:35:11.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:35:11.902Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "HelloWorldAPI\\HelloWorldAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-19T04:29:47.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:29:47.079Z"
             }
           ]
         },

@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HelloWorldAPI",
+    "\\HelloWorldAPI\\HelloWorldAPI",
+    "\\ProductManagementAPI",
+    "\\ProductManagementAPI\\ProductManagementAPI"
   ],
-  "SelectedNode": "\\C:\\Users\\FPT\\source\\repos\\BTH-SOA-.NET",
+  "SelectedNode": "\\ProductManagementAPI",
   "PreviewInSolutionExplorer": false
 }
