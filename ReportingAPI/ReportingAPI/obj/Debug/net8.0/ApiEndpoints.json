@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "ReportingAPI.Controllers.OrdersReportController",
+    "Method": "GetAllOrdersReports",
+    "RelativePath": "api/reports/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.OrdersReportController",
+    "Method": "CreateOrderReport",
+    "RelativePath": "api/reports/orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "report",
+        "Type": "ReportingAPI.Models.OrdersReport",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.OrdersReportController",
+    "Method": "GetOrderReportById",
+    "RelativePath": "api/reports/orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.OrdersReportController",
+    "Method": "DeleteOrderReport",
+    "RelativePath": "api/reports/orders/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.ProductReportController",
+    "Method": "GetAllProductReports",
+    "RelativePath": "api/reports/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.ProductReportController",
+    "Method": "CreateProductReport",
+    "RelativePath": "api/reports/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "report",
+        "Type": "ReportingAPI.Models.ProductReport",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.ProductReportController",
+    "Method": "GetProductReportById",
+    "RelativePath": "api/reports/products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReportingAPI.Controllers.ProductReportController",
+    "Method": "DeleteProductReport",
+    "RelativePath": "api/reports/products/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
